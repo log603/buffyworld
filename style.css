@@ -1,0 +1,46 @@
+h1,h2,h3 {
+  text-align: center;
+}
+body {
+  background-image: url(https://grizly.club/sec2/uploads/posts/2024-02/grizly-club-p-fon-kladbishche-nochyu-anime-10.jpg);
+  background-size: cover;       
+  background-position: center;   
+  background-repeat: no-repeat;
+}
+body {
+  background-color: black;
+  font-family: 'Arial', sans-serif;
+  color: white;
+}
+
+h2,h3 {
+  text-align: center;
+  margin-top: 30px;
+  color: red;
+  font-size: 28px;
+}
+
+table {
+  width: 90%;
+  margin: 30px auto;
+  border-collapse: collapse;
+  font-size: 18px;
+  background-color: rgba(255, 0, 0, 0.1);
+  border: 1px solid crimson;
+}
+
+th, td {
+  border: 1px solid crimson;
+  padding: 12px;
+  text-align: center;
+}
+
+thead {
+  background-color: rgba(139, 0, 0, 0.5);
+  font-weight: bold;
+}
+body {
+  background-color: black;
+  color: black;
+}
+
